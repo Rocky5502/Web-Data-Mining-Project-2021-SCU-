@@ -1,10 +1,11 @@
 # Web-Data-Mining-Project-2021-SCU
 #This project is done for academic purpose only.
 #webdatamining, #Machinelearning, #Python #SCU
+
 *Team Leader:Chandan Kumar Sah(2018511460047)
 *Team Members:
-1.Sudin Upadhaya(2018511460046)
 
+1.Sudin Upadhaya(2018511460046)
 2. Mir Parsin Fatema(2018511460031)
 # Data-Mining
 
