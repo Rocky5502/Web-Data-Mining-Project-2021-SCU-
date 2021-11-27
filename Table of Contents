@@ -1,0 +1,43 @@
+Table of Contents
+1.INTRODUCTION
+1.1Web data mining
+1.2Python
+1.3Datascience
+1.4Machine Learning
+1.5Introduction of the background
+2.MAIN IDEA
+2.1 Problem Definition and Formalization
+3.IMPLEMENTATION
+3.1 Technologies Used
+   3.1.1 Software requirements
+   3.1.2 Language: Python
+3.1.3 Tools
+   3.1.3.1 IPython
+   3.1.3.2 PyCharm
+3.1.4 Libraries
+   3.1.4.1 Scikit-Learn
+   3.1.4.2 SciPy
+   3.1. 4.3 NumPy
+   3.1.4.4 Pandas
+   3.1.4.5 Matplotlib
+3.1.5 Algorithms
+3.1.5.1 Random Forest
+3.1.5.2 K-NN
+3.1.6 Evaluation Methodology
+   3. 1.6.1 LOSO(Leave One Subject Out)
+ 3.1.6.2 K-Fold validation
+   3.1.6.3 Confusion Matrix
+3.2. Formalization
+3.3 Data Description and Preprocessing
+3.4 Methods Description
+3.4.1 Feature Extraction
+3.4.2 Further processing
+3.4.3 Classification approach and algorithm
+3.4.4 Additional algorithm we explored
+4.EXPERIMENTS DESIGN AND EVALUTION
+4.1 Experiments design 
+4.2 Evaluation:
+5.CONCLUSION
+6.REFERENCES
+7.ACKNOWLEDGEMENT
+ 
