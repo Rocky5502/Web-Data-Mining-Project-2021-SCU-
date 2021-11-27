@@ -56,5 +56,7 @@ All the steps of web data mining are completely done using python programming la
 *(Note: I can't share my personal project report here, If annyone need help to write it kindly follow the above table of contains or Contract me through my Linkedin Profile ID :https://www.linkedin.com/in/chandan-kumar-sah-5803bb1b4/ )
 
 Thanks! Have a good luck
+
 Regards!
+
 Chandan Kumar Sah
